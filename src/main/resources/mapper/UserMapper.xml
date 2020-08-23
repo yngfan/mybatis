@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mapper namespace="org.anderneo.mybatis.mapping.UserMapper">
+    <!--<select id="getUserById" resultType="org.anderneo.mybatis.bean.User">-->
+        <!--select * from users where id = ?-->
+    <!--</select>-->
+</mapper>
